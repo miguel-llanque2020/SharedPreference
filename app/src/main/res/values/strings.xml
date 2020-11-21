@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlmacenamientoSP</string>
+    <string name="checkbox">com.example.almacenamiento_2.checkbox</string>
+    <string name="name">com.example.almacenamiento_2.usuario</string>
+    <string name="password">com.example.almacenamiento_2.contraseña</string>
+</resources>
